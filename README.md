@@ -26,7 +26,7 @@ No manual setup required. Simply clone the repository and execute the script dir
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/SynapseClean.git](https://github.com/yourusername/SynapseClean.git)
+git clone [https://github.com/AkhilG-exe/SynapseClean.git](https://github.com/AkhilG.exe/SynapseClean.git)
 cd SynapseClean
 
 # Run the pipeline
